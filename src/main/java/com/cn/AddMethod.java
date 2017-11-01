@@ -11,3 +11,9 @@ public class AddMethod {
 		return i/j;
 	}
 }
+
+/*
+
+十全十美
+
+*/
