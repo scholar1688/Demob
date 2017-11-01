@@ -72,9 +72,3 @@ public class AddMethodTest {
 	}
 }
 
-
-/*注释过，再update
- * 
- * 
- * 注释过，再update
- */
