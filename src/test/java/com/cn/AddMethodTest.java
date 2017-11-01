@@ -72,9 +72,3 @@ public class AddMethodTest {
 	}
 }
 
-/*
- * 
- * 88888888888
- *
- */
-
